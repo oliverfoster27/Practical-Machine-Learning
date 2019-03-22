@@ -12,7 +12,7 @@
 |-------------------|----------------------------------------------------|
 | Week 1            | Introduction to Deep Learning & the Perceptron     |
 | Week 2            | DNNs, Activation Functions, Cost Functions & SGD   |
-| Week 3            |                                                    |
+| Week 3            | Keras                                              |
 | Week 4            |                                                    |
 | Week 5            |                                                    |
 | Week 6            |                                                    |
