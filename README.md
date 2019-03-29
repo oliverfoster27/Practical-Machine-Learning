@@ -8,13 +8,13 @@
 
 ### Course Content:
 
-| Date              | Topics & Assignments                               |
-|-------------------|----------------------------------------------------|
-| Week 1            | Introduction to Deep Learning & the Perceptron     |
-| Week 2            | DNNs, Activation Functions, Cost Functions & SGD   |
-| Week 3            | Keras, Colab, Transfer Learning, Example Problems  |
-| Week 4            |                                                    |
-| Week 5            |                                                    |
-| Week 6            |                                                    |
-| Week 7            |                                                    |
-| Week 8            |                                                    |
+| Date              | Topics & Assignments                                                                                   |
+|-------------------|--------------------------------------------------------------------------------------------------------|
+| Week 1            | Introduction to Deep Learning & the Perceptron                                                         |
+| Week 2            | DNNs, Activation Functions, Cost Functions & SGD                                                       |
+| Week 3            | Keras, Colab, Transfer Learning, Example Problems                                                      |
+| Week 4            | Learning Rate, Cross-Entropy, Optimizers, Regularizers, Initializers, MNIST Fasion Classifier          |
+| Week 5            |                                                                                                        |
+| Week 6            |                                                                                                        |
+| Week 7            |                                                                                                        |
+| Week 8            |                                                                                                        |
