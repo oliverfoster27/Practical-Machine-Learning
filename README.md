@@ -14,7 +14,7 @@
 | Week 2            | DNNs, Activation Functions, Cost Functions & SGD                                                       |
 | Week 3            | Keras, Colab, Transfer Learning, Example Problems                                                      |
 | Week 4            | Learning Rate, Cross-Entropy, Optimizers, Regularizers, Initializers, MNIST Fasion Classifier          |
-| Week 5            |                                                                                                        |
+| Week 5            | Convolutional Neural Networks                                                                          |
 | Week 6            |                                                                                                        |
 | Week 7            |                                                                                                        |
 | Week 8            |                                                                                                        |
