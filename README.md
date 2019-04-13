@@ -16,6 +16,6 @@
 | Week 4            | Learning Rate, Cross-Entropy, Optimizers, Regularizers, Initializers, MNIST Fasion Classifier          |
 | Week 5            | Convolutional Neural Networks                                                                          |
 | Week 6            | Recurrant Neural Networks                                                                              |
-| Week 6 (Saturday) |                                                                                                        |
+| Week 6 (Saturday) | Review RNNs, Autoencoders                                                                              |
 | Week 7            |                                                                                                        |
 | Week 8            |                                                                                                        |
