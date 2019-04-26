@@ -18,4 +18,6 @@
 | Week 6            | Recurrant Neural Networks                                                                              |
 | Week 6 (Saturday) | Review RNNs, Autoencoders                                                                              |
 | Week 7            | Review Autoencoders, Performance Improvements                                                          |
-| Week 8            |                                                                                                        |
+| Week 8            | Insight into current state of AI & deploying AI in the cloud                                           |
+| Week 9            |                                                                                                        |
+| Week 10           |                                                                                                        |
