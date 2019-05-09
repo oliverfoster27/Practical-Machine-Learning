@@ -20,4 +20,4 @@
 | Week 7            | Review Autoencoders, Performance Improvements                                                          |
 | Week 8            | Insight into current state of AI & deploying AI in the cloud                                           |
 | Week 9            | Reinforcement Learning                                                                                 |
-| Week 10           |                                                                                                        |
+| Week 10           | Final Quiz                                                                                             |
